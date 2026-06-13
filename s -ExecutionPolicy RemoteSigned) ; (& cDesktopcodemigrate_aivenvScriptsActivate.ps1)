@@ -1,0 +1,12 @@
+warning: in the working copy of '.env.example', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'app.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/analyzer.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/api_key_manager.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/converter.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/env_loader.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/github_integration.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/input_handler.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/report_generator.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'modules/risk_model.py', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'requirements.txt', LF will be replaced by CRLF the next time Git touches it
